@@ -1,0 +1,601 @@
+merchant_id,merchant_name,merchant_category,region
+MERCH_00001,Merchant_Partner_0001,Dining & Entertainment,North
+MERCH_00002,Merchant_Partner_0002,,South
+MERCH_00003,Merchant_Partner_0003,Groceries & Supermarkets,South
+MERCH_00004,Merchant_Partner_0004,Dining & Entertainment,South
+MERCH_00005,Merchant_Partner_0005,Crypto & Gaming,West
+MERCH_00006,Merchant_Partner_0006,Healthcare & Pharma,South
+MERCH_00007,Merchant_Partner_0007,Travel & Airlines,East
+MERCH_00008,Merchant_Partner_0008,Utilities & Bill Payments,West
+MERCH_00009,Merchant_Partner_0009,Travel & Airlines,West
+MERCH_00010,Merchant_Partner_0010,,West
+MERCH_00011,Merchant_Partner_0011,Healthcare & Pharma,North
+MERCH_00012,Merchant_Partner_0012,Electronics & Gadgets,North
+MERCH_00013,Merchant_Partner_0013,,North
+MERCH_00014,Merchant_Partner_0014,Utilities & Bill Payments,North
+MERCH_00015,Merchant_Partner_0015,Groceries & Supermarkets,West
+MERCH_00016,Merchant_Partner_0016,Dining & Entertainment,East
+MERCH_00017,Merchant_Partner_0017,Groceries & Supermarkets,North
+MERCH_00018,Merchant_Partner_0018,Utilities & Bill Payments,North
+MERCH_00019,Merchant_Partner_0019,Groceries & Supermarkets,North
+MERCH_00020,Merchant_Partner_0020,,East
+MERCH_00021,Merchant_Partner_0021,Electronics & Gadgets,East
+MERCH_00022,Merchant_Partner_0022,Crypto & Gaming,West
+MERCH_00023,Merchant_Partner_0023,Utilities & Bill Payments,Central
+MERCH_00024,Merchant_Partner_0024,Luxury Goods,North
+MERCH_00025,Merchant_Partner_0025,Travel & Airlines,South
+MERCH_00026,Merchant_Partner_0026,Groceries & Supermarkets,North
+MERCH_00027,Merchant_Partner_0027,Dining & Entertainment,South
+MERCH_00028,Merchant_Partner_0028,Crypto & Gaming,West
+MERCH_00029,Merchant_Partner_0029,Travel & Airlines,South
+MERCH_00030,Merchant_Partner_0030,Electronics & Gadgets,East
+MERCH_00031,Merchant_Partner_0031,Travel & Airlines,South
+MERCH_00032,Merchant_Partner_0032,Electronics & Gadgets,North
+MERCH_00033,Merchant_Partner_0033,Dining & Entertainment,North
+MERCH_00034,Merchant_Partner_0034,Crypto & Gaming,South
+MERCH_00035,Merchant_Partner_0035,Utilities & Bill Payments,East
+MERCH_00036,Merchant_Partner_0036,Crypto & Gaming,North
+MERCH_00037,Merchant_Partner_0037,Groceries & Supermarkets,East
+MERCH_00038,Merchant_Partner_0038,Utilities & Bill Payments,West
+MERCH_00039,Merchant_Partner_0039,Crypto & Gaming,South
+MERCH_00040,Merchant_Partner_0040,Groceries & Supermarkets,West
+MERCH_00041,Merchant_Partner_0041,Dining & Entertainment,South
+MERCH_00042,Merchant_Partner_0042,Electronics & Gadgets,East
+MERCH_00043,Merchant_Partner_0043,Utilities & Bill Payments,West
+MERCH_00044,Merchant_Partner_0044,Travel & Airlines,Central
+MERCH_00045,Merchant_Partner_0045,Dining & Entertainment,South
+MERCH_00046,Merchant_Partner_0046,Groceries & Supermarkets,South
+MERCH_00047,Merchant_Partner_0047,Electronics & Gadgets,North
+MERCH_00048,Merchant_Partner_0048,Luxury Goods,North
+MERCH_00049,Merchant_Partner_0049,Dining & Entertainment,East
+MERCH_00050,Merchant_Partner_0050,Groceries & Supermarkets,West
+MERCH_00051,Merchant_Partner_0051,Groceries & Supermarkets,South
+MERCH_00052,Merchant_Partner_0052,Electronics & Gadgets,North
+MERCH_00053,Merchant_Partner_0053,Dining & Entertainment,South
+MERCH_00054,Merchant_Partner_0054,Dining & Entertainment,South
+MERCH_00055,Merchant_Partner_0055,Dining & Entertainment,South
+MERCH_00056,Merchant_Partner_0056,Travel & Airlines,North
+MERCH_00057,Merchant_Partner_0057,Dining & Entertainment,East
+MERCH_00058,Merchant_Partner_0058,Travel & Airlines,North
+MERCH_00059,Merchant_Partner_0059,Groceries & Supermarkets,South
+MERCH_00060,Merchant_Partner_0060,Crypto & Gaming,West
+MERCH_00061,Merchant_Partner_0061,Healthcare & Pharma,North
+MERCH_00062,Merchant_Partner_0062,Dining & Entertainment,East
+MERCH_00063,Merchant_Partner_0063,Crypto & Gaming,East
+MERCH_00064,Merchant_Partner_0064,Dining & Entertainment,East
+MERCH_00065,Merchant_Partner_0065,Healthcare & Pharma,South
+MERCH_00066,Merchant_Partner_0066,Travel & Airlines,South
+MERCH_00067,Merchant_Partner_0067,Electronics & Gadgets,West
+MERCH_00068,Merchant_Partner_0068,,West
+MERCH_00069,Merchant_Partner_0069,Utilities & Bill Payments,South
+MERCH_00070,Merchant_Partner_0070,Electronics & Gadgets,North
+MERCH_00071,Merchant_Partner_0071,Travel & Airlines,North
+MERCH_00072,Merchant_Partner_0072,Electronics & Gadgets,North
+MERCH_00073,Merchant_Partner_0073,Groceries & Supermarkets,South
+MERCH_00074,Merchant_Partner_0074,Healthcare & Pharma,North
+MERCH_00075,Merchant_Partner_0075,Electronics & Gadgets,South
+MERCH_00076,Merchant_Partner_0076,Utilities & Bill Payments,West
+MERCH_00077,Merchant_Partner_0077,Groceries & Supermarkets,South
+MERCH_00078,Merchant_Partner_0078,Crypto & Gaming,West
+MERCH_00079,Merchant_Partner_0079,Groceries & Supermarkets,West
+MERCH_00080,Merchant_Partner_0080,Dining & Entertainment,North
+MERCH_00081,Merchant_Partner_0081,Crypto & Gaming,East
+MERCH_00082,Merchant_Partner_0082,Dining & Entertainment,West
+MERCH_00083,Merchant_Partner_0083,Groceries & Supermarkets,South
+MERCH_00084,Merchant_Partner_0084,Groceries & Supermarkets,North
+MERCH_00085,Merchant_Partner_0085,Groceries & Supermarkets,South
+MERCH_00086,Merchant_Partner_0086,Groceries & Supermarkets,West
+MERCH_00087,Merchant_Partner_0087,Dining & Entertainment,East
+MERCH_00088,Merchant_Partner_0088,Crypto & Gaming,North
+MERCH_00089,Merchant_Partner_0089,Dining & Entertainment,East
+MERCH_00090,Merchant_Partner_0090,Crypto & Gaming,South
+MERCH_00091,Merchant_Partner_0091,Groceries & Supermarkets,South
+MERCH_00092,Merchant_Partner_0092,Groceries & Supermarkets,East
+MERCH_00093,Merchant_Partner_0093,Groceries & Supermarkets,South
+MERCH_00094,Merchant_Partner_0094,Utilities & Bill Payments,West
+MERCH_00095,Merchant_Partner_0095,Dining & Entertainment,East
+MERCH_00096,Merchant_Partner_0096,Groceries & Supermarkets,East
+MERCH_00097,Merchant_Partner_0097,Groceries & Supermarkets,North
+MERCH_00098,Merchant_Partner_0098,Utilities & Bill Payments,West
+MERCH_00099,Merchant_Partner_0099,Dining & Entertainment,West
+MERCH_00100,Merchant_Partner_0100,Dining & Entertainment,North
+MERCH_00101,Merchant_Partner_0101,,South
+MERCH_00102,Merchant_Partner_0102,Groceries & Supermarkets,North
+MERCH_00103,Merchant_Partner_0103,Luxury Goods,West
+MERCH_00104,Merchant_Partner_0104,Dining & Entertainment,East
+MERCH_00105,Merchant_Partner_0105,Electronics & Gadgets,North
+MERCH_00106,Merchant_Partner_0106,Utilities & Bill Payments,West
+MERCH_00107,Merchant_Partner_0107,Dining & Entertainment,North
+MERCH_00108,Merchant_Partner_0108,Groceries & Supermarkets,West
+MERCH_00109,Merchant_Partner_0109,Travel & Airlines,South
+MERCH_00110,Merchant_Partner_0110,Groceries & Supermarkets,South
+MERCH_00111,Merchant_Partner_0111,Groceries & Supermarkets,North
+MERCH_00112,Merchant_Partner_0112,Dining & Entertainment,North
+MERCH_00113,Merchant_Partner_0113,Groceries & Supermarkets,East
+MERCH_00114,Merchant_Partner_0114,Utilities & Bill Payments,South
+MERCH_00115,Merchant_Partner_0115,Luxury Goods,North
+MERCH_00116,Merchant_Partner_0116,Groceries & Supermarkets,North
+MERCH_00117,Merchant_Partner_0117,Travel & Airlines,North
+MERCH_00118,Merchant_Partner_0118,Dining & Entertainment,West
+MERCH_00119,Merchant_Partner_0119,Dining & Entertainment,East
+MERCH_00120,Merchant_Partner_0120,Dining & Entertainment,North
+MERCH_00121,Merchant_Partner_0121,Electronics & Gadgets,South
+MERCH_00122,Merchant_Partner_0122,Travel & Airlines,North
+MERCH_00123,Merchant_Partner_0123,Crypto & Gaming,West
+MERCH_00124,Merchant_Partner_0124,Luxury Goods,West
+MERCH_00125,Merchant_Partner_0125,,East
+MERCH_00126,Merchant_Partner_0126,Healthcare & Pharma,West
+MERCH_00127,Merchant_Partner_0127,,West
+MERCH_00128,Merchant_Partner_0128,Luxury Goods,West
+MERCH_00129,Merchant_Partner_0129,Dining & Entertainment,South
+MERCH_00130,Merchant_Partner_0130,Travel & Airlines,South
+MERCH_00131,Merchant_Partner_0131,Dining & Entertainment,North
+MERCH_00132,Merchant_Partner_0132,Groceries & Supermarkets,South
+MERCH_00133,Merchant_Partner_0133,Groceries & Supermarkets,East
+MERCH_00134,Merchant_Partner_0134,Groceries & Supermarkets,North
+MERCH_00135,Merchant_Partner_0135,Groceries & Supermarkets,North
+MERCH_00136,Merchant_Partner_0136,Electronics & Gadgets,South
+MERCH_00137,Merchant_Partner_0137,Dining & Entertainment,North
+MERCH_00138,Merchant_Partner_0138,Dining & Entertainment,South
+MERCH_00139,Merchant_Partner_0139,Groceries & Supermarkets,West
+MERCH_00140,Merchant_Partner_0140,Utilities & Bill Payments,West
+MERCH_00141,Merchant_Partner_0141,Dining & Entertainment,East
+MERCH_00142,Merchant_Partner_0142,Luxury Goods,South
+MERCH_00143,Merchant_Partner_0143,Dining & Entertainment,South
+MERCH_00144,Merchant_Partner_0144,Groceries & Supermarkets,North
+MERCH_00145,Merchant_Partner_0145,Travel & Airlines,West
+MERCH_00146,Merchant_Partner_0146,Dining & Entertainment,North
+MERCH_00147,Merchant_Partner_0147,Groceries & Supermarkets,North
+MERCH_00148,Merchant_Partner_0148,Groceries & Supermarkets,West
+MERCH_00149,Merchant_Partner_0149,Groceries & Supermarkets,North
+MERCH_00150,Merchant_Partner_0150,Groceries & Supermarkets,South
+MERCH_00151,Merchant_Partner_0151,Travel & Airlines,North
+MERCH_00152,Merchant_Partner_0152,Travel & Airlines,North
+MERCH_00153,Merchant_Partner_0153,Groceries & Supermarkets,North
+MERCH_00154,Merchant_Partner_0154,Dining & Entertainment,North
+MERCH_00155,Merchant_Partner_0155,Crypto & Gaming,East
+MERCH_00156,Merchant_Partner_0156,Groceries & Supermarkets,West
+MERCH_00157,Merchant_Partner_0157,Groceries & Supermarkets,South
+MERCH_00158,Merchant_Partner_0158,Groceries & Supermarkets,West
+MERCH_00159,Merchant_Partner_0159,Electronics & Gadgets,North
+MERCH_00160,Merchant_Partner_0160,Groceries & Supermarkets,South
+MERCH_00161,Merchant_Partner_0161,Electronics & Gadgets,North
+MERCH_00162,Merchant_Partner_0162,Dining & Entertainment,East
+MERCH_00163,Merchant_Partner_0163,Crypto & Gaming,South
+MERCH_00164,Merchant_Partner_0164,Groceries & Supermarkets,East
+MERCH_00165,Merchant_Partner_0165,Electronics & Gadgets,West
+MERCH_00166,Merchant_Partner_0166,Dining & Entertainment,South
+MERCH_00167,Merchant_Partner_0167,Utilities & Bill Payments,East
+MERCH_00168,Merchant_Partner_0168,Dining & Entertainment,West
+MERCH_00169,Merchant_Partner_0169,Crypto & Gaming,South
+MERCH_00170,Merchant_Partner_0170,Electronics & Gadgets,South
+MERCH_00171,Merchant_Partner_0171,Electronics & Gadgets,East
+MERCH_00172,Merchant_Partner_0172,Utilities & Bill Payments,East
+MERCH_00173,Merchant_Partner_0173,Groceries & Supermarkets,North
+MERCH_00174,Merchant_Partner_0174,Luxury Goods,South
+MERCH_00175,Merchant_Partner_0175,Dining & Entertainment,South
+MERCH_00176,Merchant_Partner_0176,Dining & Entertainment,South
+MERCH_00177,Merchant_Partner_0177,Groceries & Supermarkets,North
+MERCH_00178,Merchant_Partner_0178,Dining & Entertainment,West
+MERCH_00179,Merchant_Partner_0179,Travel & Airlines,West
+MERCH_00180,Merchant_Partner_0180,Groceries & Supermarkets,South
+MERCH_00181,Merchant_Partner_0181,Groceries & Supermarkets,East
+MERCH_00182,Merchant_Partner_0182,Utilities & Bill Payments,West
+MERCH_00183,Merchant_Partner_0183,Crypto & Gaming,North
+MERCH_00184,Merchant_Partner_0184,Electronics & Gadgets,North
+MERCH_00185,Merchant_Partner_0185,Groceries & Supermarkets,South
+MERCH_00186,Merchant_Partner_0186,Dining & Entertainment,West
+MERCH_00187,Merchant_Partner_0187,Dining & Entertainment,North
+MERCH_00188,Merchant_Partner_0188,Dining & Entertainment,Central
+MERCH_00189,Merchant_Partner_0189,Travel & Airlines,South
+MERCH_00190,Merchant_Partner_0190,Travel & Airlines,South
+MERCH_00191,Merchant_Partner_0191,Crypto & Gaming,South
+MERCH_00192,Merchant_Partner_0192,Groceries & Supermarkets,North
+MERCH_00193,Merchant_Partner_0193,Healthcare & Pharma,West
+MERCH_00194,Merchant_Partner_0194,Crypto & Gaming,Central
+MERCH_00195,Merchant_Partner_0195,Electronics & Gadgets,South
+MERCH_00196,Merchant_Partner_0196,Travel & Airlines,Central
+MERCH_00197,Merchant_Partner_0197,Dining & Entertainment,West
+MERCH_00198,Merchant_Partner_0198,Groceries & Supermarkets,South
+MERCH_00199,Merchant_Partner_0199,Groceries & Supermarkets,East
+MERCH_00200,Merchant_Partner_0200,Dining & Entertainment,South
+MERCH_00201,Merchant_Partner_0201,Electronics & Gadgets,South
+MERCH_00202,Merchant_Partner_0202,Dining & Entertainment,North
+MERCH_00203,Merchant_Partner_0203,Groceries & Supermarkets,East
+MERCH_00204,Merchant_Partner_0204,Dining & Entertainment,North
+MERCH_00205,Merchant_Partner_0205,Groceries & Supermarkets,West
+MERCH_00206,Merchant_Partner_0206,Groceries & Supermarkets,West
+MERCH_00207,Merchant_Partner_0207,Utilities & Bill Payments,North
+MERCH_00208,Merchant_Partner_0208,Crypto & Gaming,South
+MERCH_00209,Merchant_Partner_0209,Electronics & Gadgets,South
+MERCH_00210,Merchant_Partner_0210,Groceries & Supermarkets,South
+MERCH_00211,Merchant_Partner_0211,Dining & Entertainment,South
+MERCH_00212,Merchant_Partner_0212,Travel & Airlines,South
+MERCH_00213,Merchant_Partner_0213,Luxury Goods,South
+MERCH_00214,Merchant_Partner_0214,Luxury Goods,North
+MERCH_00215,Merchant_Partner_0215,Dining & Entertainment,North
+MERCH_00216,Merchant_Partner_0216,Travel & Airlines,North
+MERCH_00217,Merchant_Partner_0217,Travel & Airlines,West
+MERCH_00218,Merchant_Partner_0218,Dining & Entertainment,Central
+MERCH_00219,Merchant_Partner_0219,Groceries & Supermarkets,South
+MERCH_00220,Merchant_Partner_0220,Electronics & Gadgets,South
+MERCH_00221,Merchant_Partner_0221,Groceries & Supermarkets,North
+MERCH_00222,Merchant_Partner_0222,Groceries & Supermarkets,South
+MERCH_00223,Merchant_Partner_0223,Groceries & Supermarkets,North
+MERCH_00224,Merchant_Partner_0224,Travel & Airlines,East
+MERCH_00225,Merchant_Partner_0225,Dining & Entertainment,West
+MERCH_00226,Merchant_Partner_0226,Travel & Airlines,North
+MERCH_00227,Merchant_Partner_0227,Electronics & Gadgets,West
+MERCH_00228,Merchant_Partner_0228,Groceries & Supermarkets,North
+MERCH_00229,Merchant_Partner_0229,Crypto & Gaming,South
+MERCH_00230,Merchant_Partner_0230,Groceries & Supermarkets,North
+MERCH_00231,Merchant_Partner_0231,Dining & Entertainment,South
+MERCH_00232,Merchant_Partner_0232,Luxury Goods,North
+MERCH_00233,Merchant_Partner_0233,Groceries & Supermarkets,South
+MERCH_00234,Merchant_Partner_0234,Groceries & Supermarkets,South
+MERCH_00235,Merchant_Partner_0235,Travel & Airlines,South
+MERCH_00236,Merchant_Partner_0236,Luxury Goods,East
+MERCH_00237,Merchant_Partner_0237,Dining & Entertainment,West
+MERCH_00238,Merchant_Partner_0238,Utilities & Bill Payments,South
+MERCH_00239,Merchant_Partner_0239,Electronics & Gadgets,North
+MERCH_00240,Merchant_Partner_0240,Luxury Goods,North
+MERCH_00241,Merchant_Partner_0241,Groceries & Supermarkets,West
+MERCH_00242,Merchant_Partner_0242,Groceries & Supermarkets,South
+MERCH_00243,Merchant_Partner_0243,Utilities & Bill Payments,South
+MERCH_00244,Merchant_Partner_0244,Healthcare & Pharma,North
+MERCH_00245,Merchant_Partner_0245,Groceries & Supermarkets,South
+MERCH_00246,Merchant_Partner_0246,Groceries & Supermarkets,North
+MERCH_00247,Merchant_Partner_0247,Groceries & Supermarkets,Central
+MERCH_00248,Merchant_Partner_0248,Groceries & Supermarkets,West
+MERCH_00249,Merchant_Partner_0249,Groceries & Supermarkets,North
+MERCH_00250,Merchant_Partner_0250,Luxury Goods,South
+MERCH_00251,Merchant_Partner_0251,Dining & Entertainment,North
+MERCH_00252,Merchant_Partner_0252,Dining & Entertainment,South
+MERCH_00253,Merchant_Partner_0253,Dining & Entertainment,West
+MERCH_00254,Merchant_Partner_0254,Crypto & Gaming,South
+MERCH_00255,Merchant_Partner_0255,Dining & Entertainment,South
+MERCH_00256,Merchant_Partner_0256,Crypto & Gaming,North
+MERCH_00257,Merchant_Partner_0257,Electronics & Gadgets,West
+MERCH_00258,Merchant_Partner_0258,Crypto & Gaming,East
+MERCH_00259,Merchant_Partner_0259,Crypto & Gaming,South
+MERCH_00260,Merchant_Partner_0260,Utilities & Bill Payments,North
+MERCH_00261,Merchant_Partner_0261,Luxury Goods,South
+MERCH_00262,Merchant_Partner_0262,Electronics & Gadgets,Central
+MERCH_00263,Merchant_Partner_0263,Dining & Entertainment,South
+MERCH_00264,Merchant_Partner_0264,Groceries & Supermarkets,South
+MERCH_00265,Merchant_Partner_0265,Dining & Entertainment,South
+MERCH_00266,Merchant_Partner_0266,Electronics & Gadgets,West
+MERCH_00267,Merchant_Partner_0267,Groceries & Supermarkets,South
+MERCH_00268,Merchant_Partner_0268,Electronics & Gadgets,North
+MERCH_00269,Merchant_Partner_0269,Dining & Entertainment,South
+MERCH_00270,Merchant_Partner_0270,,East
+MERCH_00271,Merchant_Partner_0271,Healthcare & Pharma,East
+MERCH_00272,Merchant_Partner_0272,Groceries & Supermarkets,West
+MERCH_00273,Merchant_Partner_0273,Healthcare & Pharma,South
+MERCH_00274,Merchant_Partner_0274,Dining & Entertainment,North
+MERCH_00275,Merchant_Partner_0275,Electronics & Gadgets,Central
+MERCH_00276,Merchant_Partner_0276,Electronics & Gadgets,South
+MERCH_00277,Merchant_Partner_0277,Dining & Entertainment,East
+MERCH_00278,Merchant_Partner_0278,Dining & Entertainment,East
+MERCH_00279,Merchant_Partner_0279,Dining & Entertainment,South
+MERCH_00280,Merchant_Partner_0280,Electronics & Gadgets,North
+MERCH_00281,Merchant_Partner_0281,Travel & Airlines,West
+MERCH_00282,Merchant_Partner_0282,Luxury Goods,West
+MERCH_00283,Merchant_Partner_0283,Groceries & Supermarkets,South
+MERCH_00284,Merchant_Partner_0284,Electronics & Gadgets,South
+MERCH_00285,Merchant_Partner_0285,Groceries & Supermarkets,North
+MERCH_00286,Merchant_Partner_0286,Dining & Entertainment,North
+MERCH_00287,Merchant_Partner_0287,Dining & Entertainment,South
+MERCH_00288,Merchant_Partner_0288,Groceries & Supermarkets,South
+MERCH_00289,Merchant_Partner_0289,Groceries & Supermarkets,Central
+MERCH_00290,Merchant_Partner_0290,Groceries & Supermarkets,West
+MERCH_00291,Merchant_Partner_0291,,East
+MERCH_00292,Merchant_Partner_0292,Electronics & Gadgets,South
+MERCH_00293,Merchant_Partner_0293,Luxury Goods,North
+MERCH_00294,Merchant_Partner_0294,Travel & Airlines,Central
+MERCH_00295,Merchant_Partner_0295,Groceries & Supermarkets,South
+MERCH_00296,Merchant_Partner_0296,Utilities & Bill Payments,North
+MERCH_00297,Merchant_Partner_0297,Travel & Airlines,South
+MERCH_00298,Merchant_Partner_0298,,West
+MERCH_00299,Merchant_Partner_0299,Groceries & Supermarkets,West
+MERCH_00300,Merchant_Partner_0300,Electronics & Gadgets,North
+MERCH_00301,Merchant_Partner_0301,Healthcare & Pharma,West
+MERCH_00302,Merchant_Partner_0302,Crypto & Gaming,North
+MERCH_00303,Merchant_Partner_0303,Electronics & Gadgets,North
+MERCH_00304,Merchant_Partner_0304,Dining & Entertainment,West
+MERCH_00305,Merchant_Partner_0305,Healthcare & Pharma,West
+MERCH_00306,Merchant_Partner_0306,Groceries & Supermarkets,South
+MERCH_00307,Merchant_Partner_0307,Travel & Airlines,South
+MERCH_00308,Merchant_Partner_0308,Healthcare & Pharma,West
+MERCH_00309,Merchant_Partner_0309,Groceries & Supermarkets,West
+MERCH_00310,Merchant_Partner_0310,Dining & Entertainment,West
+MERCH_00311,Merchant_Partner_0311,Dining & Entertainment,South
+MERCH_00312,Merchant_Partner_0312,Dining & Entertainment,Central
+MERCH_00313,Merchant_Partner_0313,Electronics & Gadgets,Central
+MERCH_00314,Merchant_Partner_0314,Electronics & Gadgets,North
+MERCH_00315,Merchant_Partner_0315,Dining & Entertainment,West
+MERCH_00316,Merchant_Partner_0316,Groceries & Supermarkets,South
+MERCH_00317,Merchant_Partner_0317,Electronics & Gadgets,South
+MERCH_00318,Merchant_Partner_0318,Groceries & Supermarkets,East
+MERCH_00319,Merchant_Partner_0319,Groceries & Supermarkets,North
+MERCH_00320,Merchant_Partner_0320,Luxury Goods,South
+MERCH_00321,Merchant_Partner_0321,Travel & Airlines,West
+MERCH_00322,Merchant_Partner_0322,Luxury Goods,North
+MERCH_00323,Merchant_Partner_0323,Groceries & Supermarkets,South
+MERCH_00324,Merchant_Partner_0324,Crypto & Gaming,West
+MERCH_00325,Merchant_Partner_0325,,South
+MERCH_00326,Merchant_Partner_0326,Dining & Entertainment,South
+MERCH_00327,Merchant_Partner_0327,Dining & Entertainment,South
+MERCH_00328,Merchant_Partner_0328,Groceries & Supermarkets,South
+MERCH_00329,Merchant_Partner_0329,Healthcare & Pharma,East
+MERCH_00330,Merchant_Partner_0330,Groceries & Supermarkets,West
+MERCH_00331,Merchant_Partner_0331,Dining & Entertainment,South
+MERCH_00332,Merchant_Partner_0332,Luxury Goods,West
+MERCH_00333,Merchant_Partner_0333,Utilities & Bill Payments,South
+MERCH_00334,Merchant_Partner_0334,Healthcare & Pharma,South
+MERCH_00335,Merchant_Partner_0335,Electronics & Gadgets,East
+MERCH_00336,Merchant_Partner_0336,Groceries & Supermarkets,East
+MERCH_00337,Merchant_Partner_0337,Groceries & Supermarkets,South
+MERCH_00338,Merchant_Partner_0338,Travel & Airlines,North
+MERCH_00339,Merchant_Partner_0339,Dining & Entertainment,North
+MERCH_00340,Merchant_Partner_0340,Groceries & Supermarkets,South
+MERCH_00341,Merchant_Partner_0341,Dining & Entertainment,South
+MERCH_00342,Merchant_Partner_0342,Electronics & Gadgets,East
+MERCH_00343,Merchant_Partner_0343,,North
+MERCH_00344,Merchant_Partner_0344,Dining & Entertainment,West
+MERCH_00345,Merchant_Partner_0345,Travel & Airlines,North
+MERCH_00346,Merchant_Partner_0346,Dining & Entertainment,South
+MERCH_00347,Merchant_Partner_0347,Groceries & Supermarkets,South
+MERCH_00348,Merchant_Partner_0348,Dining & Entertainment,North
+MERCH_00349,Merchant_Partner_0349,Groceries & Supermarkets,West
+MERCH_00350,Merchant_Partner_0350,Groceries & Supermarkets,North
+MERCH_00351,Merchant_Partner_0351,Dining & Entertainment,South
+MERCH_00352,Merchant_Partner_0352,Utilities & Bill Payments,West
+MERCH_00353,Merchant_Partner_0353,Groceries & Supermarkets,East
+MERCH_00354,Merchant_Partner_0354,Electronics & Gadgets,South
+MERCH_00355,Merchant_Partner_0355,Crypto & Gaming,South
+MERCH_00356,Merchant_Partner_0356,Groceries & Supermarkets,East
+MERCH_00357,Merchant_Partner_0357,Dining & Entertainment,Central
+MERCH_00358,Merchant_Partner_0358,Dining & Entertainment,West
+MERCH_00359,Merchant_Partner_0359,Groceries & Supermarkets,South
+MERCH_00360,Merchant_Partner_0360,Travel & Airlines,Central
+MERCH_00361,Merchant_Partner_0361,Dining & Entertainment,North
+MERCH_00362,Merchant_Partner_0362,Electronics & Gadgets,North
+MERCH_00363,Merchant_Partner_0363,Dining & Entertainment,West
+MERCH_00364,Merchant_Partner_0364,Groceries & Supermarkets,North
+MERCH_00365,Merchant_Partner_0365,Dining & Entertainment,North
+MERCH_00366,Merchant_Partner_0366,Groceries & Supermarkets,North
+MERCH_00367,Merchant_Partner_0367,Utilities & Bill Payments,South
+MERCH_00368,Merchant_Partner_0368,Electronics & Gadgets,East
+MERCH_00369,Merchant_Partner_0369,,East
+MERCH_00370,Merchant_Partner_0370,Utilities & Bill Payments,North
+MERCH_00371,Merchant_Partner_0371,Groceries & Supermarkets,South
+MERCH_00372,Merchant_Partner_0372,Electronics & Gadgets,West
+MERCH_00373,Merchant_Partner_0373,Electronics & Gadgets,West
+MERCH_00374,Merchant_Partner_0374,Groceries & Supermarkets,South
+MERCH_00375,Merchant_Partner_0375,Healthcare & Pharma,Central
+MERCH_00376,Merchant_Partner_0376,Dining & Entertainment,East
+MERCH_00377,Merchant_Partner_0377,Groceries & Supermarkets,North
+MERCH_00378,Merchant_Partner_0378,Dining & Entertainment,North
+MERCH_00379,Merchant_Partner_0379,Crypto & Gaming,North
+MERCH_00380,Merchant_Partner_0380,Healthcare & Pharma,East
+MERCH_00381,Merchant_Partner_0381,Electronics & Gadgets,North
+MERCH_00382,Merchant_Partner_0382,Crypto & Gaming,South
+MERCH_00383,Merchant_Partner_0383,Travel & Airlines,North
+MERCH_00384,Merchant_Partner_0384,Travel & Airlines,West
+MERCH_00385,Merchant_Partner_0385,Travel & Airlines,South
+MERCH_00386,Merchant_Partner_0386,Groceries & Supermarkets,West
+MERCH_00387,Merchant_Partner_0387,Dining & Entertainment,Central
+MERCH_00388,Merchant_Partner_0388,Travel & Airlines,North
+MERCH_00389,Merchant_Partner_0389,Healthcare & Pharma,South
+MERCH_00390,Merchant_Partner_0390,Groceries & Supermarkets,North
+MERCH_00391,Merchant_Partner_0391,Dining & Entertainment,West
+MERCH_00392,Merchant_Partner_0392,Healthcare & Pharma,South
+MERCH_00393,Merchant_Partner_0393,Dining & Entertainment,North
+MERCH_00394,Merchant_Partner_0394,Utilities & Bill Payments,North
+MERCH_00395,Merchant_Partner_0395,,South
+MERCH_00396,Merchant_Partner_0396,Electronics & Gadgets,Central
+MERCH_00397,Merchant_Partner_0397,Dining & Entertainment,East
+MERCH_00398,Merchant_Partner_0398,Groceries & Supermarkets,West
+MERCH_00399,Merchant_Partner_0399,Crypto & Gaming,South
+MERCH_00400,Merchant_Partner_0400,Groceries & Supermarkets,North
+MERCH_00401,Merchant_Partner_0401,Dining & Entertainment,Central
+MERCH_00402,Merchant_Partner_0402,Crypto & Gaming,North
+MERCH_00403,Merchant_Partner_0403,Electronics & Gadgets,Central
+MERCH_00404,Merchant_Partner_0404,Groceries & Supermarkets,South
+MERCH_00405,Merchant_Partner_0405,Luxury Goods,North
+MERCH_00406,Merchant_Partner_0406,Groceries & Supermarkets,East
+MERCH_00407,Merchant_Partner_0407,Groceries & Supermarkets,Central
+MERCH_00408,Merchant_Partner_0408,Groceries & Supermarkets,Central
+MERCH_00409,Merchant_Partner_0409,Luxury Goods,North
+MERCH_00410,Merchant_Partner_0410,Luxury Goods,North
+MERCH_00411,Merchant_Partner_0411,Dining & Entertainment,South
+MERCH_00412,Merchant_Partner_0412,Utilities & Bill Payments,East
+MERCH_00413,Merchant_Partner_0413,Groceries & Supermarkets,East
+MERCH_00414,Merchant_Partner_0414,Luxury Goods,North
+MERCH_00415,Merchant_Partner_0415,Groceries & Supermarkets,Central
+MERCH_00416,Merchant_Partner_0416,,East
+MERCH_00417,Merchant_Partner_0417,Groceries & Supermarkets,West
+MERCH_00418,Merchant_Partner_0418,Crypto & Gaming,South
+MERCH_00419,Merchant_Partner_0419,Dining & Entertainment,South
+MERCH_00420,Merchant_Partner_0420,Electronics & Gadgets,Central
+MERCH_00421,Merchant_Partner_0421,Luxury Goods,South
+MERCH_00422,Merchant_Partner_0422,Travel & Airlines,West
+MERCH_00423,Merchant_Partner_0423,Groceries & Supermarkets,Central
+MERCH_00424,Merchant_Partner_0424,Travel & Airlines,East
+MERCH_00425,Merchant_Partner_0425,Dining & Entertainment,South
+MERCH_00426,Merchant_Partner_0426,Utilities & Bill Payments,North
+MERCH_00427,Merchant_Partner_0427,Travel & Airlines,North
+MERCH_00428,Merchant_Partner_0428,,North
+MERCH_00429,Merchant_Partner_0429,Groceries & Supermarkets,North
+MERCH_00430,Merchant_Partner_0430,Dining & Entertainment,North
+MERCH_00431,Merchant_Partner_0431,Luxury Goods,South
+MERCH_00432,Merchant_Partner_0432,Groceries & Supermarkets,South
+MERCH_00433,Merchant_Partner_0433,Utilities & Bill Payments,South
+MERCH_00434,Merchant_Partner_0434,Crypto & Gaming,North
+MERCH_00435,Merchant_Partner_0435,Groceries & Supermarkets,North
+MERCH_00436,Merchant_Partner_0436,Healthcare & Pharma,East
+MERCH_00437,Merchant_Partner_0437,Travel & Airlines,South
+MERCH_00438,Merchant_Partner_0438,Electronics & Gadgets,South
+MERCH_00439,Merchant_Partner_0439,Groceries & Supermarkets,East
+MERCH_00440,Merchant_Partner_0440,Groceries & Supermarkets,West
+MERCH_00441,Merchant_Partner_0441,Utilities & Bill Payments,South
+MERCH_00442,Merchant_Partner_0442,Dining & Entertainment,East
+MERCH_00443,Merchant_Partner_0443,Healthcare & Pharma,Central
+MERCH_00444,Merchant_Partner_0444,Groceries & Supermarkets,West
+MERCH_00445,Merchant_Partner_0445,Groceries & Supermarkets,South
+MERCH_00446,Merchant_Partner_0446,Groceries & Supermarkets,East
+MERCH_00447,Merchant_Partner_0447,Travel & Airlines,North
+MERCH_00448,Merchant_Partner_0448,Luxury Goods,South
+MERCH_00449,Merchant_Partner_0449,Dining & Entertainment,Central
+MERCH_00450,Merchant_Partner_0450,Electronics & Gadgets,South
+MERCH_00451,Merchant_Partner_0451,Utilities & Bill Payments,West
+MERCH_00452,Merchant_Partner_0452,Dining & Entertainment,South
+MERCH_00453,Merchant_Partner_0453,Groceries & Supermarkets,Central
+MERCH_00454,Merchant_Partner_0454,Dining & Entertainment,South
+MERCH_00455,Merchant_Partner_0455,Electronics & Gadgets,North
+MERCH_00456,Merchant_Partner_0456,Groceries & Supermarkets,South
+MERCH_00457,Merchant_Partner_0457,Groceries & Supermarkets,North
+MERCH_00458,Merchant_Partner_0458,Travel & Airlines,North
+MERCH_00459,Merchant_Partner_0459,Travel & Airlines,West
+MERCH_00460,Merchant_Partner_0460,Groceries & Supermarkets,North
+MERCH_00461,Merchant_Partner_0461,Groceries & Supermarkets,West
+MERCH_00462,Merchant_Partner_0462,Dining & Entertainment,South
+MERCH_00463,Merchant_Partner_0463,Luxury Goods,North
+MERCH_00464,Merchant_Partner_0464,Dining & Entertainment,Central
+MERCH_00465,Merchant_Partner_0465,Groceries & Supermarkets,South
+MERCH_00466,Merchant_Partner_0466,Groceries & Supermarkets,East
+MERCH_00467,Merchant_Partner_0467,Groceries & Supermarkets,East
+MERCH_00468,Merchant_Partner_0468,Groceries & Supermarkets,South
+MERCH_00469,Merchant_Partner_0469,Crypto & Gaming,West
+MERCH_00470,Merchant_Partner_0470,Dining & Entertainment,East
+MERCH_00471,Merchant_Partner_0471,Dining & Entertainment,South
+MERCH_00472,Merchant_Partner_0472,Dining & Entertainment,West
+MERCH_00473,Merchant_Partner_0473,Groceries & Supermarkets,North
+MERCH_00474,Merchant_Partner_0474,Electronics & Gadgets,South
+MERCH_00475,Merchant_Partner_0475,Dining & Entertainment,Central
+MERCH_00476,Merchant_Partner_0476,Electronics & Gadgets,East
+MERCH_00477,Merchant_Partner_0477,Groceries & Supermarkets,West
+MERCH_00478,Merchant_Partner_0478,Electronics & Gadgets,East
+MERCH_00479,Merchant_Partner_0479,Groceries & Supermarkets,West
+MERCH_00480,Merchant_Partner_0480,Groceries & Supermarkets,Central
+MERCH_00481,Merchant_Partner_0481,Utilities & Bill Payments,North
+MERCH_00482,Merchant_Partner_0482,,North
+MERCH_00483,Merchant_Partner_0483,Groceries & Supermarkets,South
+MERCH_00484,Merchant_Partner_0484,Groceries & Supermarkets,East
+MERCH_00485,Merchant_Partner_0485,Dining & Entertainment,North
+MERCH_00486,Merchant_Partner_0486,Groceries & Supermarkets,North
+MERCH_00487,Merchant_Partner_0487,Electronics & Gadgets,South
+MERCH_00488,Merchant_Partner_0488,Groceries & Supermarkets,Central
+MERCH_00489,Merchant_Partner_0489,Groceries & Supermarkets,East
+MERCH_00490,Merchant_Partner_0490,Dining & Entertainment,South
+MERCH_00491,Merchant_Partner_0491,Dining & Entertainment,North
+MERCH_00492,Merchant_Partner_0492,Groceries & Supermarkets,South
+MERCH_00493,Merchant_Partner_0493,Electronics & Gadgets,North
+MERCH_00494,Merchant_Partner_0494,,North
+MERCH_00495,Merchant_Partner_0495,Groceries & Supermarkets,West
+MERCH_00496,Merchant_Partner_0496,Luxury Goods,Central
+MERCH_00497,Merchant_Partner_0497,Dining & Entertainment,North
+MERCH_00498,Merchant_Partner_0498,Crypto & Gaming,North
+MERCH_00499,Merchant_Partner_0499,Dining & Entertainment,South
+MERCH_00500,Merchant_Partner_0500,Utilities & Bill Payments,South
+MERCH_00501,Merchant_Partner_0501,Dining & Entertainment,North
+MERCH_00502,Merchant_Partner_0502,,South
+MERCH_00503,Merchant_Partner_0503,Groceries & Supermarkets,North
+MERCH_00504,Merchant_Partner_0504,Dining & Entertainment,West
+MERCH_00505,Merchant_Partner_0505,,East
+MERCH_00506,Merchant_Partner_0506,Luxury Goods,East
+MERCH_00507,Merchant_Partner_0507,Dining & Entertainment,South
+MERCH_00508,Merchant_Partner_0508,Healthcare & Pharma,West
+MERCH_00509,Merchant_Partner_0509,Groceries & Supermarkets,Central
+MERCH_00510,Merchant_Partner_0510,Utilities & Bill Payments,North
+MERCH_00511,Merchant_Partner_0511,Electronics & Gadgets,North
+MERCH_00512,Merchant_Partner_0512,Luxury Goods,South
+MERCH_00513,Merchant_Partner_0513,Groceries & Supermarkets,North
+MERCH_00514,Merchant_Partner_0514,Travel & Airlines,South
+MERCH_00515,Merchant_Partner_0515,Dining & Entertainment,South
+MERCH_00516,Merchant_Partner_0516,Travel & Airlines,South
+MERCH_00517,Merchant_Partner_0517,Travel & Airlines,South
+MERCH_00518,Merchant_Partner_0518,Luxury Goods,South
+MERCH_00519,Merchant_Partner_0519,,Central
+MERCH_00520,Merchant_Partner_0520,Dining & Entertainment,North
+MERCH_00521,Merchant_Partner_0521,Groceries & Supermarkets,East
+MERCH_00522,Merchant_Partner_0522,Utilities & Bill Payments,North
+MERCH_00523,Merchant_Partner_0523,Dining & Entertainment,North
+MERCH_00524,Merchant_Partner_0524,Electronics & Gadgets,South
+MERCH_00525,Merchant_Partner_0525,Groceries & Supermarkets,North
+MERCH_00526,Merchant_Partner_0526,Crypto & Gaming,North
+MERCH_00527,Merchant_Partner_0527,Groceries & Supermarkets,North
+MERCH_00528,Merchant_Partner_0528,Groceries & Supermarkets,South
+MERCH_00529,Merchant_Partner_0529,,East
+MERCH_00530,Merchant_Partner_0530,Groceries & Supermarkets,North
+MERCH_00531,Merchant_Partner_0531,Groceries & Supermarkets,East
+MERCH_00532,Merchant_Partner_0532,Dining & Entertainment,North
+MERCH_00533,Merchant_Partner_0533,Groceries & Supermarkets,East
+MERCH_00534,Merchant_Partner_0534,Electronics & Gadgets,South
+MERCH_00535,Merchant_Partner_0535,Groceries & Supermarkets,East
+MERCH_00536,Merchant_Partner_0536,Crypto & Gaming,Central
+MERCH_00537,Merchant_Partner_0537,Dining & Entertainment,West
+MERCH_00538,Merchant_Partner_0538,Dining & Entertainment,North
+MERCH_00539,Merchant_Partner_0539,Groceries & Supermarkets,West
+MERCH_00540,Merchant_Partner_0540,Groceries & Supermarkets,North
+MERCH_00541,Merchant_Partner_0541,Groceries & Supermarkets,Central
+MERCH_00542,Merchant_Partner_0542,Travel & Airlines,South
+MERCH_00543,Merchant_Partner_0543,Healthcare & Pharma,South
+MERCH_00544,Merchant_Partner_0544,,North
+MERCH_00545,Merchant_Partner_0545,Groceries & Supermarkets,North
+MERCH_00546,Merchant_Partner_0546,Groceries & Supermarkets,East
+MERCH_00547,Merchant_Partner_0547,Dining & Entertainment,Central
+MERCH_00548,Merchant_Partner_0548,Dining & Entertainment,East
+MERCH_00549,Merchant_Partner_0549,Dining & Entertainment,East
+MERCH_00550,Merchant_Partner_0550,Utilities & Bill Payments,West
+MERCH_00551,Merchant_Partner_0551,Travel & Airlines,North
+MERCH_00552,Merchant_Partner_0552,Groceries & Supermarkets,North
+MERCH_00553,Merchant_Partner_0553,Groceries & Supermarkets,North
+MERCH_00554,Merchant_Partner_0554,Dining & Entertainment,South
+MERCH_00555,Merchant_Partner_0555,Dining & Entertainment,North
+MERCH_00556,Merchant_Partner_0556,Crypto & Gaming,North
+MERCH_00557,Merchant_Partner_0557,Dining & Entertainment,North
+MERCH_00558,Merchant_Partner_0558,Dining & Entertainment,North
+MERCH_00559,Merchant_Partner_0559,Utilities & Bill Payments,West
+MERCH_00560,Merchant_Partner_0560,Crypto & Gaming,North
+MERCH_00561,Merchant_Partner_0561,Dining & Entertainment,South
+MERCH_00562,Merchant_Partner_0562,Groceries & Supermarkets,South
+MERCH_00563,Merchant_Partner_0563,Dining & Entertainment,South
+MERCH_00564,Merchant_Partner_0564,Healthcare & Pharma,North
+MERCH_00565,Merchant_Partner_0565,Electronics & Gadgets,South
+MERCH_00566,Merchant_Partner_0566,Dining & Entertainment,North
+MERCH_00567,Merchant_Partner_0567,Dining & Entertainment,South
+MERCH_00568,Merchant_Partner_0568,Groceries & Supermarkets,North
+MERCH_00569,Merchant_Partner_0569,Crypto & Gaming,South
+MERCH_00570,Merchant_Partner_0570,Groceries & Supermarkets,East
+MERCH_00571,Merchant_Partner_0571,Luxury Goods,South
+MERCH_00572,Merchant_Partner_0572,Dining & Entertainment,South
+MERCH_00573,Merchant_Partner_0573,Groceries & Supermarkets,South
+MERCH_00574,Merchant_Partner_0574,Groceries & Supermarkets,West
+MERCH_00575,Merchant_Partner_0575,Crypto & Gaming,North
+MERCH_00576,Merchant_Partner_0576,Electronics & Gadgets,East
+MERCH_00577,Merchant_Partner_0577,Groceries & Supermarkets,West
+MERCH_00578,Merchant_Partner_0578,Crypto & Gaming,South
+MERCH_00579,Merchant_Partner_0579,Electronics & Gadgets,South
+MERCH_00580,Merchant_Partner_0580,Groceries & Supermarkets,South
+MERCH_00581,Merchant_Partner_0581,Dining & Entertainment,North
+MERCH_00582,Merchant_Partner_0582,Healthcare & Pharma,North
+MERCH_00583,Merchant_Partner_0583,Dining & Entertainment,North
+MERCH_00584,Merchant_Partner_0584,Utilities & Bill Payments,North
+MERCH_00585,Merchant_Partner_0585,Groceries & Supermarkets,South
+MERCH_00586,Merchant_Partner_0586,Groceries & Supermarkets,West
+MERCH_00587,Merchant_Partner_0587,Groceries & Supermarkets,North
+MERCH_00588,Merchant_Partner_0588,Dining & Entertainment,West
+MERCH_00589,Merchant_Partner_0589,Healthcare & Pharma,Central
+MERCH_00590,Merchant_Partner_0590,,Central
+MERCH_00591,Merchant_Partner_0591,Utilities & Bill Payments,West
+MERCH_00592,Merchant_Partner_0592,Dining & Entertainment,South
+MERCH_00593,Merchant_Partner_0593,Electronics & Gadgets,North
+MERCH_00594,Merchant_Partner_0594,Travel & Airlines,South
+MERCH_00595,Merchant_Partner_0595,Groceries & Supermarkets,South
+MERCH_00596,Merchant_Partner_0596,Groceries & Supermarkets,West
+MERCH_00597,Merchant_Partner_0597,Dining & Entertainment,Central
+MERCH_00598,Merchant_Partner_0598,Travel & Airlines,South
+MERCH_00599,Merchant_Partner_0599,,South
+MERCH_00600,Merchant_Partner_0600,Crypto & Gaming,North
